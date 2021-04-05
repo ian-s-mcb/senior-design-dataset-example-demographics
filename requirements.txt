@@ -1,4 +1,9 @@
+dash
+dash-bootstrap-components
+dash-cytoscape
 jupyterlab
 matplotlib
 numpy
 pandas
+sklearn
+umap
